@@ -1,5 +1,5 @@
-name: 'yuzu'
-run-name: 'Build yuzu'
+name: 'tfb yuzu'
+run-name: 'Build tfb yuzu'
 
 on:
   workflow_dispatch:
