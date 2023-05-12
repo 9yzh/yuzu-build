@@ -1,5 +1,5 @@
-name: 'yuzu'
-run-name: 'Build yuzu'
+name: 'yuzu depths patch'
+run-name: 'Build yuzu with depths patch'
 
 on:
   workflow_dispatch:
